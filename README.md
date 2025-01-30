@@ -5,7 +5,7 @@ Created by @Ex1skeleton01
 
 - First fork this repo and fill the variables (defined below)
 - Clone this repo using curl or `wget https://raw.githubusercontent.com/Ex1skeleton01/Build-Scripts/refs/heads/main/ci_bot.sh`
-- Then do bash script.sh -h
+- Then do bash ci_bot.sh -h
 - Done
 
 ### Variables 
