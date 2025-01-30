@@ -1,17 +1,17 @@
 #!/bin/bash
 
 # Build Configuration. Required variables to compile the ROM.
-CONFIG_LUNCH="" # Example lineage_lancelot-userdebug
-CONFIG_OFFICIAL_FLAG="" # ur NAME
-CONFIG_TARGET="bacon" # Default is bacon / rise b / mka bacon etc
+CONFIG_LUNCH=""
+CONFIG_OFFICIAL_FLAG=""
+CONFIG_TARGET="bacon"
 
 # Telegram Configuration
-CONFIG_CHATID="-" # ur group/channel chatid eg - "-xxxxxxxx"
-CONFIG_BOT_TOKEN="" # ur bot token
-CONFIG_ERROR_CHATID="" # set of channels that are specifically for bringing up an error message log when compile rom 
+CONFIG_CHATID="-"
+CONFIG_BOT_TOKEN=""
+CONFIG_ERROR_CHATID="" 
 
 # PixelDrain api keys to upload builds
-CONFIG_PDUP_API="" # paste API PixelDrain in Here
+CONFIG_PDUP_API=""
 
 # Turning off server after build or no
 POWEROFF=""
