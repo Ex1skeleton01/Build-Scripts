@@ -4,7 +4,7 @@ Created by @Ex1skeleton01
 ## How to use ?
 
 - First fork this repo and fill the variables (defined below)
-- Clone this repo using curl
+- Clone this repo using curl or `wget https://raw.githubusercontent.com/Ex1skeleton01/Build-Scripts/refs/heads/main/ci_bot.sh`
 - Then do bash script.sh -h
 - Done
 
